@@ -1,0 +1,81 @@
+product_id,description,price,classification,stock,min_stock,max_stock
+1,Aceite,18.00,Básicos,12,5,20
+2,Mermelada,15.00,Desayuno,30,10,40
+3,Jugo de Naranja,23.00,Bebidas,18,8,25
+4,Pescado,40.00,Cárnicos,6,2,12
+5,Arroz Blanco,12.00,Básicos,45,20,70
+6,Donas,10.00,Panadería,22,10,30
+7,Patatas Fritas,20.00,Snacks,50,25,75
+8,Leche,13.00,Lácteos,35,15,55
+9,Cerveza de Raíz,15.00,Bebidas,40,15,60
+10,Pechuga de Pollo,50.00,Cárnicos,20,10,30
+11,Queso,80.00,Lácteos,25,10,35
+12,Refresco,23.00,Bebidas,65,25,85
+13,Tomates,6.00,Vegetales,50,20,100
+14,Huevos,40.00,Básicos,60,30,90
+15,Café,30.00,Bebidas,12,5,20
+16,Aguacates,25.00,Frutas,30,10,45
+17,Pan Integral,19.00,Panadería,25,10,40
+18,Champiñones,14.00,Vegetales,18,8,30
+19,Aceitunas Negras,10.00,Conservas,40,10,60
+20,Cerveza,9.00,Bebidas,35,15,50
+21,Queso Parmesano,100.00,Lácteos,28,10,40
+22,Vino,200.00,Bebidas,15,6,22
+23,Manzanas,5.00,Frutas,45,20,65
+24,Zumo de Mango,15.00,Bebidas,20,8,30
+25,Pimientos Amarillos,18.00,Vegetales,30,10,40
+26,Salchichas,19.00,Cárnicos,20,10,30
+27,Chocolate,23.00,Snacks,25,10,40
+28,Pasta Fusilli,12.00,Básicos,55,25,80
+29,Jengibre,12.00,Vegetales,30,15,50
+30,Galletas de Chocolate,18.00,Snacks,45,20,60
+31,Lomo de Cerdo,45.00,Cárnicos,12,4,18
+32,Mantequilla,15.00,Lácteos,35,15,55
+33,Muesli,40.00,Desayuno,40,20,60
+34,Coco,19.00,Frutas,25,10,35
+35,Yogurt de Fresa,24.00,Lácteos,28,12,40
+36,Atún,65.00,Cárnicos,9,3,15
+37,Salsa BBQ,31.00,Condimentos,50,20,75
+38,Pasta de Dientes,26.00,Higiene,40,20,60
+39,Jabón Líquido,40.00,Higiene,50,25,75
+40,Shampoo,39.00,Higiene,30,12,45
+41,Limpiador Multiuso,36.00,Limpieza,40,20,60
+42,Desodorante,45.00,Higiene,35,15,50
+43,Pañales para Bebés,99.00,Higiene,25,10,40
+44,Jugo de Manzana,21.00,Bebidas,30,15,45
+45,Bebida Energizante,30.00,Bebidas,40,18,55
+46,Ajo,10.00,Condimentos,60,25,85
+47,Tequila,250.00,Bebidas,10,4,15
+48,Mayonesa,32.00,Condimentos,20,10,30
+49,Mostaza,25.00,Condimentos,35,15,50
+50,Sal,16.00,Condimentos,40,15,60
+51,Papas Caseras,15.00,Snacks,55,20,80
+52,Frutos Secos,90.00,Frutos Secos,25,10,35
+53,Naranjas,10.00,Frutas,60,20,100
+54,Plátanos,9.00,Frutas,55,20,85
+55,Peras,9.00,Frutas,45,18,70
+56,Limas,5.00,Frutas,50,20,75
+57,Mangos,12.00,Frutas,35,10,50
+58,Kiwi,15.00,Frutas,40,15,60
+59,Melon,20.00,Frutas,30,10,45
+60,Duraznos,13.00,Conservas,20,8,30
+61,Vinagre de Manzana,32.00,Condimentos,45,20,70
+62,Curcuma Molida,5.00,Condimentos,25,10,40
+63,Calabaza,26.00,Vegetales,30,10,50
+64,Brocoli,18.00,Vegetales,25,10,40
+65,Zanahoria,20.00,Vegetales,50,20,80
+66,Espinacas,23.00,Vegetales,28,10,45
+67,Col,15.00,Vegetales,30,12,40
+68,Lechuga,25.00,Vegetales,35,15,55
+69,Cebolla,10.00,Vegetales,65,25,90
+70,Puerro,13.00,Vegetales,20,8,30
+71,Apio,10.00,Vegetales,50,20,70
+72,Pepinos,21.00,Vegetales,45,18,65
+73,Pimientos Verdes,23.00,Vegetales,40,15,60
+74,Alcachofas,26.00,Vegetales,18,6,25
+75,Tomates Cherry,30.00,Vegetales,30,12,45
+76,Maíz,30.00,Vegetales,55,20,80
+77,Chiles Jalapeños,19.00,Vegetales,25,10,40
+78,Aceitunas Verdes,25.00,Conservas,30,12,50
+79,Sopa Instantanea,13.00,Snacks,40,15,60
+80,Pesto,45.00,Condimentos,22,10,35
